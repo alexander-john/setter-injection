@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/Shawn/Desktop/small projects/setter-injection/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -o CMakeFiles\\setter-injection.dir\\main.cpp.obj -c \"C:\\Users\\Shawn\\Desktop\\small projects\\setter-injection\\main.cpp\"",
+  "file": "C:/Users/Shawn/Desktop/small projects/setter-injection/main.cpp",
+  "output": "CMakeFiles/setter-injection.dir/main.cpp.obj"
+}
+]
